@@ -1,0 +1,38 @@
+{
+  "name": "noom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Meltzer",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "nodemailer": "^4.6.8",
+    "path": "^0.12.7",
+    "query-string": "^6.2.0",
+    "react": "^16.5.2",
+    "react-bootstrap": "^0.32.4",
+    "react-dom": "^16.5.2",
+    "react-router-dom": "^4.3.1",
+    "sqlite3": "^4.0.4"
+  },
+  "devDependencies": {
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2",
+    "babel-loader": "^8.0.4",
+    "@babel/preset-react": "^7.0.0",
+    "@babel/plugin-proposal-class-properties": "^7.0.0",
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "css-loader": "^1.0.0",
+    "less": "latest",
+    "less-loader": "^4.1.0",
+    "style-loader": "^0.23.0",
+    "eslint": "latest"
+  }
+}
