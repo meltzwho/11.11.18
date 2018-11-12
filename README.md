@@ -2,6 +2,8 @@
 
 ## Building and running on localhost
 
+Tested using node v8.12.0
+
 First install dependencies:
 
 ```sh
